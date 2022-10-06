@@ -61,7 +61,7 @@ generateHtml(saidaHuman, estrutura)
 
 # HTML
 
-i = 1
+# i = 1
 
 # for k in cont:
 #   transparencia = cont[k]/max(cont.values)
